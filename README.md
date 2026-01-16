@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Exam Score Prediction (Machine Learning)
 
 This project predicts **student exam scores** using multiple factors like:
@@ -41,6 +40,4 @@ python src/predict.py
 ```bash
 python app.py
 ```
-=======
-# -Exam-Score-Prediction-Machine-Learning-
->>>>>>> fb74ae0982f8a7db8f6d0a624f10972daff8baa6
+
