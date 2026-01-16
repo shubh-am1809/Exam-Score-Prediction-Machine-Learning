@@ -19,11 +19,6 @@ Exam-Score-Prediction/
 ├── app.py
 ```
 
-## Setup
-```bash
-pip install -r requirements.txt
-```
-
 ## Train the model
 ```bash
 python src/train_model.py
