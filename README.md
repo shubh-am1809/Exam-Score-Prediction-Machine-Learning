@@ -17,8 +17,6 @@ Exam-Score-Prediction/
 ├── models/
 │   └── exam_score_model.pkl
 ├── app.py
-├── requirements.txt
-└── README.md
 ```
 
 ## Setup
